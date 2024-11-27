@@ -1,0 +1,15 @@
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\bin\Debug\net8.0\Example002.exe
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\bin\Debug\net8.0\Example002.deps.json
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\bin\Debug\net8.0\Example002.runtimeconfig.json
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\bin\Debug\net8.0\Example002.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\bin\Debug\net8.0\Example002.pdb
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.sourcelink.json
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\refint\Example002.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.pdb
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\Example002.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example002\obj\Debug\net8.0\ref\Example002.dll
