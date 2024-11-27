@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\bin\Debug\net8.0\Example.exe
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\bin\Debug\net8.0\Example.deps.json
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\bin\Debug\net8.0\Example.runtimeconfig.json
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\bin\Debug\net8.0\Example.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\bin\Debug\net8.0\Example.pdb
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\refint\Example.dll
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.pdb
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\Example.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\C#_popitka№8\Example\obj\Debug\net8.0\ref\Example.dll
