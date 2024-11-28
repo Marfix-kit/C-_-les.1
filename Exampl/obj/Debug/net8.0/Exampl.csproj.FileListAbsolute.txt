@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\Exampl\bin\Debug\net8.0\Exampl.exe
+C:\Users\Дашуля\Desktop\Exampl\bin\Debug\net8.0\Exampl.deps.json
+C:\Users\Дашуля\Desktop\Exampl\bin\Debug\net8.0\Exampl.runtimeconfig.json
+C:\Users\Дашуля\Desktop\Exampl\bin\Debug\net8.0\Exampl.dll
+C:\Users\Дашуля\Desktop\Exampl\bin\Debug\net8.0\Exampl.pdb
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.dll
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\refint\Exampl.dll
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.pdb
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\Exampl.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\Exampl\obj\Debug\net8.0\ref\Exampl.dll
